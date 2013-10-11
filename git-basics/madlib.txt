@@ -25,4 +25,4 @@ and so are you.
 
 MADLIB #4
 =======================================================================
-Git is the worstest source control tool
+Git is the bestest source control tool
