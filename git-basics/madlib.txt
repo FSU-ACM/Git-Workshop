@@ -25,4 +25,4 @@ and so are you.
 
 MADLIB #4
 =======================================================================
-Git is the [an adverb that ends with 'est'] source control tool
+Git is the bestest source control tool
